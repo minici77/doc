@@ -2,19 +2,14 @@
 - 자기 소개 (사진)
   간단한 약력
   자세한 담당 업무 설명등은 지양
-  빅데이터에 있어서 나와 여러분 (이미지로)
   경영에 있어서 나와 여러분 (이미지로)
+  빅데이터에 있어서 나와 여러분 (이미지로)
+  오히려 그렇기 때문에 여러분 입장에서 빅데이터를 쉽게 설명할 수 있지 않을까?
 - 꼭 알아두어야 할 포인트
 - 다루지 않는 부분들
 
-2. 빅데이터 (장난스럽게)
+2. 빅데이터란?
 - 나름빅데이터
-- 19금
-Big data is like teenage sex:
-everyone talks about it, nobody really knows how to do it,
-everyone thinks everyone else is doing it, so everyone claims they are doing it
-
-3. 빅데이터 (진지하게)
 - divide and conquer : big + data
 - big (그림)
 - data
@@ -24,18 +19,43 @@ everyone thinks everyone else is doing it, so everyone claims they are doing it
 http://en.wikipedia.org/wiki/DIKW_Pyramid
 - 그냥 단순히 큰데이터?
   쉽게 petabyte 이상의 데이터를 다루는 개념
-http://en.wikipedia.org/wiki/Petabyte
+  http://en.wikipedia.org/wiki/Petabyte
+  quiz : yotta byte (선물1)
 3V
 volume velocity variety
 볼륨이 크고
 증가 속도가 빠르며
 다양한(정형화되어있지 않은 데이터)
-- quiz : yotta byte (선물1)
+- 숫자로 보는 빅데이터의 예
+  엄청난 볼륨으로 급증하는 데이터들
+  천문학, 게놈 염기서열, 
 
-4. 빅데이터 활용사례1
+3. 왜? 빅데이터인가?
+- 19금
+Big data is like teenage sex:
+everyone talks about it, nobody really knows how to do it,
+everyone thinks everyone else is doing it, so everyone claims they are doing it
+
+- 정보부족의 시대에 전통적으로 수행해 왔던 방식
+  작은수를 확대 (바닷가 모래알 세기)
+- 좀더 정확도를 높이기 위한 작업 무작위 샘플
+- 현재의 새로운 페러다임
+
+- Lytro 카메라
+  시스템의 한계로 인한 raw data 소실
+  과거에는 필요 없던 부분이 새로운 needs에 의해서 다른 frame으로 분석할 수 있음
+
+4. 빅데이터 시스템 개요
+- 담을수 있는 그릇
+- 가공할 수 있는 분산처리 시스템
+- 유용한 정보를 뽑아낼 수 있는 알고리즘 또는 방법론
+
+5. 빅데이터 활용사례
 - 구글의 H1N1바이러스 확산 속도 실시간 추적
 - "햄릿"프로젝트 항공권 싸게 사기 부터 중고차, 공연 티켓에 이르기까지
 
-5. 빅데이터 시스템의 구조
-
-6. 빅데이터 활용사례2
+6. 빅데이터의 한계
+- 사람들은 미래를 예측하는데 많은 관심이 있음
+- 실제 일어난 현상을 기준으로 판단해야하기 때문에 forecast까지 가능하려면 시간과 비용이 큼
+- privacy
+- 
