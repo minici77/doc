@@ -1,0 +1,41 @@
+1. 도입
+- 자기 소개 (사진)
+  간단한 약력
+  자세한 담당 업무 설명등은 지양
+  빅데이터에 있어서 나와 여러분 (이미지로)
+  경영에 있어서 나와 여러분 (이미지로)
+- 꼭 알아두어야 할 포인트
+- 다루지 않는 부분들
+
+2. 빅데이터 (장난스럽게)
+- 나름빅데이터
+- 19금
+Big data is like teenage sex:
+everyone talks about it, nobody really knows how to do it,
+everyone thinks everyone else is doing it, so everyone claims they are doing it
+
+3. 빅데이터 (진지하게)
+- divide and conquer : big + data
+- big (그림)
+- data
+  data와 information의 차이
+  그렇다면 knowledge는?  
+- 그림으로 설명
+http://en.wikipedia.org/wiki/DIKW_Pyramid
+- 그냥 단순히 큰데이터?
+  쉽게 petabyte 이상의 데이터를 다루는 개념
+http://en.wikipedia.org/wiki/Petabyte
+3V
+volume velocity variety
+볼륨이 크고
+증가 속도가 빠르며
+다양한(정형화되어있지 않은 데이터)
+- quiz : yotta byte (선물1)
+
+4. 빅데이터 활용사례1
+- 구글의 H1N1바이러스 확산 속도 실시간 추적
+- "햄릿"프로젝트 항공권 싸게 사기 부터 중고차, 공연 티켓에 이르기까지
+
+5. 빅데이터 시스템의 구조
+
+6. 빅데이터 활용사례2
