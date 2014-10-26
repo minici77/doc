@@ -1,4 +1,4 @@
-1. 도입
+1. 도입Prologue
 - 자기 소개 (사진)
   간단한 약력
   자세한 담당 업무 설명등은 지양
@@ -26,6 +26,9 @@ volume velocity variety
 볼륨이 크고
 증가 속도가 빠르며
 다양한(정형화되어있지 않은 데이터)
+
+http://www.youtube.com/watch?v=2D8oji5EKbM
+
 - 숫자로 보는 빅데이터의 예
   엄청난 볼륨으로 급증하는 데이터들
   천문학, 게놈 염기서열, 
@@ -40,6 +43,8 @@ everyone thinks everyone else is doing it, so everyone claims they are doing it
   작은수를 확대 (바닷가 모래알 세기)
 - 좀더 정확도를 높이기 위한 작업 무작위 샘플
 - 현재의 새로운 페러다임
+
+
 
 - Lytro 카메라
   시스템의 한계로 인한 raw data 소실
@@ -59,3 +64,5 @@ everyone thinks everyone else is doing it, so everyone claims they are doing it
 - 실제 일어난 현상을 기준으로 판단해야하기 때문에 forecast까지 가능하려면 시간과 비용이 큼
 - privacy
 - 
+
+http://www.youtube.com/watch?v=3aZIQ4ssM-M time lapse movie
